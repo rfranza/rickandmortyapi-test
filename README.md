@@ -1,6 +1,6 @@
 # rickandmortyapi-test
 
-RickAndMortyAPI-TEST is a test automation suite created on Python Requests, for a challenge, by Rudy Alessandro Franza.
+RickAndMortyAPI-TEST is a test automation suite created on Python Requests, for a challenge, by R.A.Franza.
 
 
 ## Installation
